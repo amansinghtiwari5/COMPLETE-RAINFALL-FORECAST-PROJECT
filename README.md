@@ -155,7 +155,6 @@ Rainfall_Forecasting_Project/
 │
 ├── data/
 ├── notebook.ipynb
-├── model.pkl
 ├── requirements.txt
 └── README.md
 ```
