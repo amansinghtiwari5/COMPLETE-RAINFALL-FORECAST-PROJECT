@@ -144,11 +144,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-### 4️⃣ Run Web App (Optional)
 
-```bash
-streamlit run app.py
-```
 
 ---
 
